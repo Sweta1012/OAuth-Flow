@@ -1,4 +1,5 @@
 const express = require('express');
+const passportSetup = require('./config/passport-setup');
 
 const app = express();
 
